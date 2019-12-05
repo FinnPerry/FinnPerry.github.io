@@ -27,7 +27,6 @@
 #topBar
 {
 	padding: 10px;
-	border: 3px black solid;
 	margin-bottom: -3px;
 	background-color: grey;
 	text-align: center;
@@ -61,7 +60,6 @@ body
 .textBlock
 {
 	margin-bottom: -3px;
-	# border: 3px black solid;
 	padding: 5px 15px;
 	text-align: center;
 	font-size: 1.25em;
